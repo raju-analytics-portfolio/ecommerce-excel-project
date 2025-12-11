@@ -1,0 +1,5 @@
+order_item_id,order_id,product_id,sku,quantity,unit_price,price_currency,line_total,notes
+OI1001,O1001,P002,SKU-002,1,1499,INR,1499,"keyboard mechanical"
+OI1002,O1001,P003,SKU-003,1,199,INR,199,"cable"
+OI1003,O1002,P001,SKU-001,1,499,INR,499,""
+OI1004,O1003,P012,SKU-012,2,299,INR,598,"two cables"

@@ -1,0 +1,11 @@
+customer_id,customer_unique_id,full_name,email,phone,city,state,zip_code,signup_date,notes
+CUST_001,UID_1001,Raju K,raju.k@example.com,9876543210,Ongole,AP,523001,2025-01-05,"VIP, referred by: Ram"
+CUST_002,UID_1002,ANITA S,anita.s@EXAMPLE.COM, +91-98765 43211,Hyderabad,Telangana,500001,05/02/2025,""
+CUST_003,UID_1003,John Doe,johndoeATmail.com,12345,New York,NY,10001,2025-03-15,"typo in email"
+CUST_004,UID_1004,Mrs. Meera,meera@example,9988776655,Bengaluru,Karnataka,560001,2025/04/01,"missing tld"
+CUST_005,UID_1005,ajay,pavan@, ,chennai,Tamil Nadu,600001,2025-04-12,"blank phone, bad email"
+CUST_006,,Suresh Kumar,suresh.k@example.com,91-9123456789,Vijayawada,AP,520001,2025-04-20,"missing unique id"
+CUST_007,UID_1007,Shruti Sharma,shruti@example.com,09876543210,Delhi,Delhi,110001,2025-4-21,"leading zero phone"
+CUST_008,UID_1008,Bala,bala@example.com,98765-4321,Coimbatore,TN,641001,21-Apr-2025,"short phone"
+CUST_009,UID_1009,,anonymous@example.com,,Unknown,, ,2025-04-22,"missing name & phone & state"
+CUST_010,UID_1010,Vinod,vino d@example.com,98765432101,Hyderabad,Telangana,500081,2025-04-23,"space in email"

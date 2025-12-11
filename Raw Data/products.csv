@@ -1,0 +1,6 @@
+product_id,sku,product_name,category,price,currency,weight_g,length_cm,width_cm,height_cm,stock_qty,description
+P001,SKU-001,Wireless Mouse,Electronics,499,INR,100,11,6,3,120,"Optical mouse, 2.4Ghz"
+P002,SKU-002,Keyboard - Mechanical,Electronics,1499,INR,,44,12,3,50,"Backlit, Blue switch"
+P003,SKU-003,USB Cable,Accessories,₹199,INR,20,100,0.5,0.5,300,"Type-C, 1m"
+P004,sku-004,Water Bottle,Home,299,INR,250,7,7,25,200,"Stainless steel"
+P005,SKU005,Notebook,Stationery,49,INR,200,21,14.8,0.5,500,"college ruled"

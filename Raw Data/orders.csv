@@ -1,0 +1,5 @@
+order_id,order_number,customer_id,order_date,ship_date,status,shipping_address,city,state,zip,total_amount,currency,notes
+O1001,ORD-1001,CUST_001,2025-04-20,2025-04-22,Delivered,"12 MG Road, Near Park","Ongole",AP,523001,1498,INR,"fragile"
+O1002,ORD-1002,CUST_002,20-04-2025,22/04/2025,Delivered,"Flat 5, 22 Baker St","Hyderabad",Telangana,500001,499,INR,""
+O1003,ORD-1003,CUST_003,2025/04/21,,Pending,"Unknown Address",New York,NY,10001,199,USD,"phone invalid"
+O1004,ORD-1004,CUST_004,04/22/2025,24-04-2025,Shipped,"MG Rd","Bengaluru",Karnataka,560001,2298,INR,"gift wrap"

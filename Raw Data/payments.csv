@@ -1,0 +1,5 @@
+payment_id,order_id,payment_date,amount,payment_method,payment_status,transaction_id,notes
+PMT1001,O1001,2025-04-20,1698,UPI,Success,TXN10001,"includes shipping 200"
+PMT1002,O1002,22/04/2025,499,Credit Card,Success,CC10002,""
+PMT1003,O1003,2025-04-21,199,NetBanking,Failed,NB10003,"payment failed"
+PMT1004,O1004,24-04-2025,19999,Card,Success,CC10004,""
