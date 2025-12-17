@@ -1,11 +1,51 @@
 customer_id,customer_unique_id,full_name,email,phone,city,state,zip_code,signup_date,notes
-CUST_001,UID_1001,Raju K,raju.k@example.com,9876543210,Ongole,AP,523001,2025-01-05,"VIP, referred by: Ram"
-CUST_002,UID_1002,ANITA S,anita.s@EXAMPLE.COM, +91-98765 43211,Hyderabad,Telangana,500001,05/02/2025,""
-CUST_003,UID_1003,John Doe,johndoeATmail.com,12345,New York,NY,10001,2025-03-15,"typo in email"
-CUST_004,UID_1004,Mrs. Meera,meera@example,9988776655,Bengaluru,Karnataka,560001,2025/04/01,"missing tld"
-CUST_005,UID_1005,ajay,pavan@, ,chennai,Tamil Nadu,600001,2025-04-12,"blank phone, bad email"
-CUST_006,,Suresh Kumar,suresh.k@example.com,91-9123456789,Vijayawada,AP,520001,2025-04-20,"missing unique id"
-CUST_007,UID_1007,Shruti Sharma,shruti@example.com,09876543210,Delhi,Delhi,110001,2025-4-21,"leading zero phone"
-CUST_008,UID_1008,Bala,bala@example.com,98765-4321,Coimbatore,TN,641001,21-Apr-2025,"short phone"
-CUST_009,UID_1009,,anonymous@example.com,,Unknown,, ,2025-04-22,"missing name & phone & state"
-CUST_010,UID_1010,Vinod,vino d@example.com,98765432101,Hyderabad,Telangana,500081,2025-04-23,"space in email"
+CUST_001,UID_1001,Customer 1,customer1@example.com,9412721276,Pune,MH,411001,11-04-2025,
+CUST_002,UID_1002,Customer 2,customer2@example.com,9602352094,Bangalore,KA,560001,04-01-2025,"VIP, referred by: Ram"
+CUST_003,UID_1003,Customer 3,customer3@example.com,9983628554,Vizag,AP,530001,11-03-2025,referred by friend
+CUST_004,UID_1004,Customer 4,customer4@example.com,9322394767,Vizag,AP,530001,26-02-2025,discount user
+CUST_005,UID_1005,Customer 5,customer5@example.com,9940674995,Hyderabad,TS,500001,27-02-2025,referred by friend
+CUST_006,UID_1006,Customer 6,customer6@example.com,9547622238,Hyderabad,TS,500001,31-01-2025,repeat customer
+CUST_007,UID_1007,Customer 7,customer7@example.com,9202555401,Chennai,TN,600001,26-02-2025,repeat customer
+CUST_008,UID_1008,Customer 8,customer8@example.com,9649507180,Pune,MH,411001,01-01-2025,referred by friend
+CUST_009,UID_1009,Customer 9,customer9@example.com,9835926720,Hyderabad,TS,500001,11-02-2025,repeat customer
+CUST_010,UID_1010,Customer 10,customer10@example.com,9243462159,Chennai,TN,600001,30-01-2025,discount user
+CUST_011,UID_1011,Customer 11,customer11@example.com,9795089355,Pune,MH,411001,01-02-2025,referred by friend
+CUST_012,UID_1012,Customer 12,customer12@example.com,9457701756,Vizag,AP,530001,10-01-2025,VIP
+CUST_013,UID_1013,Customer 13,customer13@example.com,9717596939,Bangalore,KA,560001,25-03-2025,VIP
+CUST_014,UID_1014,Customer 14,customer14@example.com,9391155271,Pune,MH,411001,29-04-2025,
+CUST_015,UID_1015,Customer 15,customer15@example.com,9930705251,Mumbai,MH,400001,26-04-2025,repeat customer
+CUST_016,UID_1016,Customer 16,customer16@example.com,9588500268,Pune,MH,411001,08-03-2025,VIP
+CUST_017,UID_1017,Customer 17,customer17@example.com,9317490303,Bangalore,KA,560001,24-02-2025,referred by friend
+CUST_018,UID_1018,Customer 18,customer18@example.com,9354104791,Pune,MH,411001,15-03-2025,"VIP, referred by: Ram"
+CUST_019,UID_1019,Customer 19,customer19@example.com,9210081210,Mumbai,MH,400001,03-03-2025,
+CUST_020,UID_1020,Customer 20,customer20@example.com,9563674894,Vizag,AP,530001,09-04-2025,repeat customer
+CUST_021,UID_1021,Customer 21,customer21@example.com,9148591638,Chennai,TN,600001,05-03-2025,discount user
+CUST_022,UID_1022,Customer 22,customer22@example.com,9278958189,Mumbai,MH,400001,15-04-2025,
+CUST_023,UID_1023,Customer 23,customer23@example.com,9972121327,Ongole,AP,523001,19-04-2025,VIP
+CUST_024,UID_1024,Customer 24,customer24@example.com,9158714354,Bangalore,KA,560001,16-04-2025,referred by friend
+CUST_025,UID_1025,Customer 25,customer25@example.com,9794466634,Vizag,AP,530001,07-01-2025,discount user
+CUST_026,UID_1026,Customer 26,customer26@example.com,9614503443,Hyderabad,TS,500001,20-02-2025,
+CUST_027,UID_1027,Customer 27,customer27@example.com,9246849731,Pune,MH,411001,13-02-2025,"VIP, referred by: Ram"
+CUST_028,UID_1028,Customer 28,customer28@example.com,9430860256,Mumbai,MH,400001,03-01-2025,VIP
+CUST_029,UID_1029,Customer 29,customer29@example.com,9274147416,Bangalore,KA,560001,26-04-2025,repeat customer
+CUST_030,UID_1030,Customer 30,customer30@example.com,9487511716,Vizag,AP,530001,15-03-2025,repeat customer
+CUST_031,UID_1031,Customer 31,customer31@example.com,9611664909,Ongole,AP,523001,07-03-2025,referred by friend
+CUST_032,UID_1032,Customer 32,customer32@example.com,9352603756,Mumbai,MH,400001,05-02-2025,
+CUST_033,UID_1033,Customer 33,customer33@example.com,9876506871,Pune,MH,411001,07-03-2025,VIP
+CUST_034,UID_1034,Customer 34,customer34@example.com,9494858828,Pune,MH,411001,23-03-2025,referred by friend
+CUST_035,UID_1035,Customer 35,customer35@example.com,9243040782,Hyderabad,TS,500001,16-03-2025,
+CUST_036,UID_1036,Customer 36,customer36@example.com,9204623533,Mumbai,MH,400001,11-04-2025,referred by friend
+CUST_037,UID_1037,Customer 37,customer37@example.com,9706428910,Bangalore,KA,560001,21-01-2025,VIP
+CUST_038,UID_1038,Customer 38,customer38@example.com,9988036971,Hyderabad,TS,500001,27-01-2025,
+CUST_039,UID_1039,Customer 39,customer39@example.com,9882380411,Ongole,AP,523001,09-03-2025,repeat customer
+CUST_040,UID_1040,Customer 40,customer40@example.com,9394985316,Chennai,TN,600001,19-01-2025,VIP
+CUST_041,UID_1041,Customer 41,customer41@example.com,9531846272,Hyderabad,TS,500001,08-04-2025,
+CUST_042,UID_1042,Customer 42,customer42@example.com,9603512629,Chennai,TN,600001,02-04-2025,discount user
+CUST_043,UID_1043,Customer 43,customer43@example.com,9861873753,Ongole,AP,523001,05-03-2025,repeat customer
+CUST_044,UID_1044,Customer 44,customer44@example.com,9610313192,Chennai,TN,600001,04-02-2025,repeat customer
+CUST_045,UID_1045,Customer 45,customer45@example.com,9179138504,Chennai,TN,600001,02-02-2025,
+CUST_046,UID_1046,Customer 46,customer46@example.com,9417531001,Pune,MH,411001,05-04-2025,
+CUST_047,UID_1047,Customer 47,customer47@example.com,9180428088,Chennai,TN,600001,26-03-2025,discount user
+CUST_048,UID_1048,Customer 48,customer48@example.com,9342452094,Mumbai,MH,400001,21-01-2025,
+CUST_049,UID_1049,Customer 49,customer49@example.com,9819575449,Hyderabad,TS,500001,10-01-2025,referred by friend
+CUST_050,UID_1050,Customer 50,customer50@example.com,9849264951,Pune,MH,411001,25-01-2025,repeat customer
